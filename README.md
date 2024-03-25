@@ -11,7 +11,7 @@ For more information, refer to **EAST ASIAN WIDTH** [Unicode Standard Annex #11]
    ```yaml
    dependencies:
      uniwidth:
-       github: naqvis/uni_char_width
+       github: philipp-kempgen/unicode_char_width.cr
    ```
 
 2. Run `shards install`
